@@ -39,5 +39,8 @@ public class sexos
 }   
 
 
-
+public class conflicto2 
+{
+    
+}
 
