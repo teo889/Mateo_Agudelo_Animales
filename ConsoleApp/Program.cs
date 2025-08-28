@@ -36,8 +36,12 @@ public class sexos
 {
     public int Id = 0;
     public string? Nombre ="";
-}   
+}
 
 
+public class conflicto
+{
+    
+}
 
 
