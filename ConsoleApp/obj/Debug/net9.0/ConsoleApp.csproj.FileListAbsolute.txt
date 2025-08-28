@@ -1,0 +1,15 @@
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\AA\Desktop\2025-2PDS6-8\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
